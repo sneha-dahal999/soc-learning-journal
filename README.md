@@ -34,8 +34,8 @@ All activities documented here will be completed in authorised labs, personal sy
 
 ## Current Progress
 
-**Start date:** 1 September 2026  
-**Current focus:** Environment setup, Git fundamentals and Linux command-line basics
+*Start date:* 1 September 2026
+*Current focus:* Environment setup, Git fundamentals and Linux command-line basics
 head -n 1 README.md
 
  
